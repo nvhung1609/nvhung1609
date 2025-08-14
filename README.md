@@ -1,5 +1,5 @@
-## WELCOME TO MY PAGE 👋👋👋👋 I'm HƯNGNGUYỄN
-I'm a student at **Ho Chi Minh City University of Technology and Education (HCMUTE)**, majoring in **Mechatronics Engineer**.
+## WELCOME TO MY PAGE 👋👋👋👋 I'm HƯNG NGUYỄN
+I am a **Computer Engineering** graduate from **Can Tho University**.
 
 ### 🛠️ About Me
 With a deep passion for **embedded programming, circuit design, and mechanical engineering**, I continuously explore and develop innovative projects in these fields. My goal is to share **useful and impactful projects** with the community, hoping to inspire and collaborate with like-minded individuals.
