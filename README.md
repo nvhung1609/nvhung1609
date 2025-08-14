@@ -21,8 +21,8 @@ I love working on open-source projects and sharing my knowledge. Check out my re
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=facekero@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.tiktok.com/@hung_nguyen_iot"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
-  <a href="https://www.youtube.com/@Menson2222"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.facebook.com/profile.php?id=100076267646838"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.youtube.com/@HungNguyen-IoT"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.facebook.com/nvhung1609/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </p>
 
 ---
