@@ -56,3 +56,9 @@ I love working on open-source projects and sharing my knowledge. Check out my re
 ---
 
 💡 *Let's connect and build something amazing together!* 🚀
+tôi có code như này để giới thiệu trên github
+giờ bạn hãy lấy toàn bộ icon 
+của link này: https://github.com/VanSilver
+thêm vào cho tôi
+lưu ý giữ nguyên nội dung hiện tại đang có cho tôi chỉ thêm vào
+và chỉnh lại cho đẹp
