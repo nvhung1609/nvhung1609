@@ -1,23 +1,28 @@
-## WELCOME TO MY PAGE 👋👋👋👋 I'm HƯNG NGUYỄN
+# WELCOME TO MY PAGE 👋👋👋👋 I'm HƯNG NGUYỄN
+
 I am a **Computer Engineering** graduate from **Can Tho University**.
 
 ### 🛠️ About Me
+
 With a deep passion for **embedded programming, circuit design, and mechanical engineering**, I continuously explore and develop innovative projects in these fields. My goal is to share **useful and impactful projects** with the community, hoping to inspire and collaborate with like-minded individuals.
 
 ### 🔥 My Interests
-- 🚀 Embedded Systems & IoT Development  
-- 🔧 PCB & Circuit Design  
-- 🤖 Robotics & Automation  
-- 💻 Firmware & Software Development  
+
+* 🚀 Embedded Systems & IoT Development
+* 🔧 PCB & Circuit Design
+* 🤖 Robotics & Automation
+* 💻 Firmware & Software Development
 
 ---
 
 ### 📌 Projects & Contributions
+
 I love working on open-source projects and sharing my knowledge. Check out my repositories for exciting projects related to **embedded systems, PCB design, and automation**.
 
 ---
 
 ### 📫 How to Reach Me
+
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=facekero@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.tiktok.com/@hung_nguyen_iot"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
@@ -28,17 +33,17 @@ I love working on open-source projects and sharing my knowledge. Check out my re
 ---
 
 ### 💡 Languages & Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,linux,vscode,git,github" />
   <img src="https://img.icons8.com/color/96/solidworks.png" alt="SolidWorks Logo" width="48" height="48" style="border: 2px solid #000; border-radius: 5px; padding: 5px;"/>
   <img src="https://i.imgur.com/uZ3hrR7.png" alt="Altium Logo" width="48" height="48" style="border: 2px solid #000; border-radius: 5px; padding: 5px;"/>
 </p>
 
-</p>
-
 ---
 
 ### ⚡ GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nvhung1609&show_icons=true&theme=radical" />
   <br>
@@ -48,17 +53,19 @@ I love working on open-source projects and sharing my knowledge. Check out my re
 ---
 
 ### 🔥 Most Used Languages
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvhung1609&layout=compact&theme=radical" />
 </p>
 
+---
+
+### 🎨 Extra Skill Icons
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,c,cpp,java,php,flutter,dart,arduino,raspberrypi,mysql,postgres,mongodb,firebase,linux,git,github,docker,figma,postman,webpack,vite,redux,nginx,kali" alt="Tech Stack" />
+</p>
 
 ---
 
 💡 *Let's connect and build something amazing together!* 🚀
-tôi có code như này để giới thiệu trên github
-giờ bạn hãy lấy toàn bộ icon 
-của link này: https://github.com/VanSilver
-thêm vào cho tôi
-lưu ý giữ nguyên nội dung hiện tại đang có cho tôi chỉ thêm vào
-và chỉnh lại cho đẹp
