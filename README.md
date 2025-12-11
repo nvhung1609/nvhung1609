@@ -60,10 +60,13 @@ I love working on open-source projects and sharing my knowledge. Check out my re
 
 ---
 
-### 🎨 Extra Skill Icons
+### 🧰 Support Tools (for Embedded Engineering)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,c,cpp,java,php,flutter,dart,arduino,raspberrypi,mysql,postgres,mongodb,firebase,linux,git,github,docker,figma,postman,webpack,vite,redux,nginx,kali" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker,postman,figma,arduino,raspberrypi" />
+  <br>
+  <img src="https://img.icons8.com/color/96/solidworks.png" alt="SolidWorks" width="48" height="48" style="margin: 10px;"/>
+  <img src="https://i.imgur.com/uZ3hrR7.png" alt="Altium" width="48" height="48" style="margin: 10px;"/>
 </p>
 
 ---
