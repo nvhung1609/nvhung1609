@@ -5,10 +5,10 @@ I am a **Computer Engineering** graduate from **Can Tho University**.
 With a deep passion for **embedded programming, circuit design, and mechanical engineering**, I continuously explore and develop innovative projects in these fields. My goal is to share **useful and impactful projects** with the community, hoping to inspire and collaborate with like-minded individuals.
 
 ### 🔥 My Interests
-- 🚀 Embedded Systems & IoT Development  
-- 🔧 PCB & Circuit Design  
-- 🤖 Robotics & Automation  
-- 💻 Firmware & Software Development  
+- 🚀 Embedded Systems & IoT Development  
+- 🔧 PCB & Circuit Design  
+- 🤖 Robotics & Automation  
+- 💻 Firmware & Software Development  
 
 ---
 
@@ -29,29 +29,30 @@ I love working on open-source projects and sharing my knowledge. Check out my re
 
 ### 💡 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,linux,vscode,git,github" />
-  <img src="https://img.icons8.com/color/96/solidworks.png" alt="SolidWorks Logo" width="48" height="48" style="border: 2px solid #000; border-radius: 5px; padding: 5px;"/>
-  <img src="https://i.imgur.com/uZ3hrR7.png" alt="Altium Logo" width="48" height="48" style="border: 2px solid #000; border-radius: 5px; padding: 5px;"/>
-</p>
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,linux,vscode,git,github,matlab,solidworks&perline=14" />
+  </a>
+  
+  <br>
+  
+  <img src="https://i.imgur.com/uZ3hrR7.png" alt="Altium Logo" width="48" height="48" style="border-radius: 5px; margin-top: 5px;"/>
 </p>
 
 ---
 
 ### ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nvhung1609&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nvhung1609&show_icons=true&theme=radical" alt="Github Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nvhung1609&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nvhung1609&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
 
 ### 🔥 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvhung1609&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvhung1609&layout=compact&theme=radical" alt="Top Langs" />
 </p>
-
 
 ---
 
